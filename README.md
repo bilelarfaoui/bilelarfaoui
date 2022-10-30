@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **graduating lol**
 - 🌱 I’m currently learning **Rust**
 - 👯 I’m looking to collaborate on **FOSS projects**
-- 📫 How to reach me: **bilelarfaoui.github.io**
+- 📫 How to reach me: **https://bilelarfaoui.github.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
