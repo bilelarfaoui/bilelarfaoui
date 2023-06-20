@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bilel Arfaoui</h1>
 <h3 align="center">A Security and Privacy enthusiast from Tunisia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilelarfaoui&label=Profile%20views&color=0e75b6&style=flat" alt="bilelarfaoui" /> </p>
-<p align="left"> <a href="https://twitter.com/tsuhbi" target="blank"><img src="https://img.shields.io/twitter/follow/tsuhbi?logo=twitter&style=for-the-badge" alt="tsuhbi" /></a> </p>
 
 <!--- 🔭 I’m currently working on **graduating lol**
 - 🌱 I’m currently learning **Rust**!-->
