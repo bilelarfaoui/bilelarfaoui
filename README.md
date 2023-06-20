@@ -10,8 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bilelarfaoui/" target="blank"><img align="center" src="https://github.com/bilelarfaoui/bilelarfaoui/assets/69963256/ed0c9a7c-e1c8-45d1-b528-4dbf559cb162" alt="bilelarfaoui" height="30" width="40" /></a> 
-<a href="https://linkedin.com/in/bilelarfaoui" target="blank"><img align="center" src="![image](https://github.com/bilelarfaoui/bilelarfaoui/assets/69963256/e77d40ff-0f1a-44d1-ad3a-e6c6eb7a99ee)
-" alt="ihsen-b8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bilelarfaoui" target="blank"><img align="center" src="https://github.com/bilelarfaoui/bilelarfaoui/assets/69963256/e77d40ff-0f1a-44d1-ad3a-e6c6eb7a99ee" alt="ihsen-b8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
