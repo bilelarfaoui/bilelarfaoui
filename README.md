@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bilelarfaoui/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="bilelarfaoui" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/bilelarfaoui/" target="blank"><img align="center" src="https://github.com/bilelarfaoui/bilelarfaoui/assets/69963256/ed0c9a7c-e1c8-45d1-b528-4dbf559cb162" alt="bilelarfaoui" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/bilelarfaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ihsen-b8" height="30" width="40" /></a>
 </p>
 
