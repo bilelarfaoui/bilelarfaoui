@@ -5,7 +5,7 @@
 <!--- 🔭 I’m currently working on **graduating lol**
 - 🌱 I’m currently learning **Rust**!-->
 - 👯 I’m looking to collaborate on **FOSS projects**
-- 📫 Know more: **https://www.bilelarfaoui.tech**
+- 📫 Know more: **https://bilelarfaoui.netlify.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
