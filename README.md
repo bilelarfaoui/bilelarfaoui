@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bilel Arfaoui</h1>
 <h3 align="center">A Security and Privacy enthusiast from Tunisia</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilelarfaoui&label=Profile%20views&color=0e75b6&style=flat" alt="bilelarfaoui" /> </p>
 
 <!--- 🔭 I’m currently working on **graduating lol**
 - 🌱 I’m currently learning **Rust**!-->
